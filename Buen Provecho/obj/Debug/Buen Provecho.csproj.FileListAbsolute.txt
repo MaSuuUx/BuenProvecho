@@ -1,0 +1,10 @@
+C:\Users\7390\source\repos\Buen Provecho\bin\Debug\Buen Provecho.exe.config
+C:\Users\7390\source\repos\Buen Provecho\bin\Debug\Buen Provecho.exe
+C:\Users\7390\source\repos\Buen Provecho\bin\Debug\Buen Provecho.pdb
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen Provecho.csproj.AssemblyReference.cache
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen_Provecho.Form1.resources
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen_Provecho.Properties.Resources.resources
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen Provecho.csproj.GenerateResource.cache
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen Provecho.csproj.CoreCompileInputs.cache
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen Provecho.exe
+C:\Users\7390\source\repos\Buen Provecho\obj\Debug\Buen Provecho.pdb
